@@ -6,7 +6,7 @@ If you do no own Descent and Descent II, you can purchase a copy from GOG, Steam
 
 
 
-DXX-Retro is based off DXX-Rebirth 0.58.0
+DXX-Retro is based off DXX-Rebirth 0.58.1
 
 
 You can find the source code for DXX-Retro at
